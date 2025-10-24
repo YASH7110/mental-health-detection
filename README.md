@@ -1,4 +1,16 @@
+
+Link to My model file click on the Below link to Download✅ model file 
+1)Below link contain mental_health_model.pth🥶
+https://drive.google.com/file/d/14UBuAH0vsNuKU_HLTTGg5RB1JnHzTfXS/view?usp=share_link
+2)Link to other files:tokenizer/config.json/vocab.txt
+https://drive.google.com/drive/folders/1m-k2J8hgm4MXdNcmulip60mu6rU6QTcw?usp=share_link
+
+have a nice day hope you loved the work if you loved it then mention my username to others so others can also learn and create 
+for furthur enquiry email at yashthakur1700@gmail.com
+
+
 # Mental Health Detection System
+
 
 AI-powered depression and stress detection using BERT + BiLSTM.
 
@@ -207,15 +219,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This tool is for informational purposes only and should not replace professional mental health diagnosis or treatment. If you're experiencing mental health concerns, please consult a qualified healthcare professional.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Yash Pratap Singh**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- GitHub: [@YASH7110](https://github.com/YASH7110)
+- Email: yashthakur1700@gmail.com
 
 ## 🙏 Acknowledgments
 
