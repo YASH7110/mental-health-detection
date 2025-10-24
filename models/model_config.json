@@ -1,0 +1,11 @@
+{
+  "bert_model_name": "bert-base-uncased",
+  "hidden_dim": 256,
+  "lstm_layers": 2,
+  "num_classes": 2,
+  "dropout": 0.3,
+  "max_len": 128,
+  "test_accuracy": 0.9454049135577798,
+  "f1_score": 0.9454545454545454,
+  "roc_auc": 0.987766186454711
+}
